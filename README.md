@@ -1,2 +1,2 @@
-# class-38
-car game with sprites and images/background.
+# synchronousBallMovement
+Ball moving synchronously
